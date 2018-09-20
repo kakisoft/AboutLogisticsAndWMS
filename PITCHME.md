@@ -65,7 +65,7 @@
 @transition[none]]
 ### 物流６大機能
 
- * @color[#blue](輸配送)
+ * @color[blue](輸配送)
  * 保管
  * 包装
  * 荷役
