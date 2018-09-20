@@ -22,7 +22,7 @@
       <td>@size[0.8em](**名前：**)</td>
       <td>
         <ruby>
-        <rb>垣花　暁</rb>
+        <rb>@size[0.8em](垣花　暁)</rb>
         <rp>（</rp>
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td>@size[0.8em](**出身：**)</td>
-      <td>沖縄県</td>
+      <td>@size[0.8em](沖縄県)</td>
     </tr>
     <tr>
       <td>@size[0.8em](**仕事：**)</td>
