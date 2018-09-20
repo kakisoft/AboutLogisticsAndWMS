@@ -15,7 +15,7 @@
     <a href="https://gitpitch.com/docs/about/" class="pro-link">
     詳細はこちら</a>
 </div>
-<div class="right">
+<div class="center">
     <ul>
         <li> **名前：** 垣花　暁（かきのはな　さとる）</li>
         <li>使えるので、</li>
