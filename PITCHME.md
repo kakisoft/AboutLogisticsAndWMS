@@ -19,7 +19,7 @@
 <div class="right">
   <table border="3" style="white-space: nowrap;">
     <tr>
-      <td>@size[0.8em](**名前：**)</td>
+      <td>@size[0.8em](**名前**)</td>
       <td>
         <ruby>
         <rb>@size[0.8em](垣花　暁)</rb>
@@ -30,23 +30,23 @@
       </td>
     </tr>
     <tr>
-      <td>@size[0.8em](**出身：**)</td>
-      <td>@size[0.8em](沖縄県)</td>
+      <td>@size[0.8em](**出身**)</td>
+      <td>沖縄県</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**仕事：**)</td>
+      <td>@size[0.8em](**仕事**)</td>
       <td>物流系エンジニア @size[0.8em](（フリーランス）)</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**スキルセット：**)</td>
+      <td>@size[0.8em](**スキルセット**)</td>
       <td>.NET/Java/PHP/RDB全般</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**その他スキル：**)</td>
+      <td>@size[0.8em](**その他スキル**)</td>
       <td>物流業界向けの言語や機器</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**趣味：**)</td>
+      <td>@size[0.8em](**趣味**)</td>
       <td>リアル脱出ゲーム</td>
     </tr>
   </table>
