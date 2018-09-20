@@ -11,6 +11,7 @@
 ---
 ### 自己紹介
 
+![alt](assets/image/kakisoft01.png)
 <div class="left">
 ![alt](assets/image/kakisoft01.png)
 </div>
