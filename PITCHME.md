@@ -17,7 +17,7 @@
 </div>
 <br>
 <div class="right">
-  <table boder=0>
+  <table boder=0 style="white-space: nowrap;">
     <tr>
       <td>**名前：**</td>
       <td>垣花　暁<br>（かきのはな　さとる）</td>
