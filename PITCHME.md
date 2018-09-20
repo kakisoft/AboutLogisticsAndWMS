@@ -55,7 +55,7 @@
 ---
 ### 物流６大機能
 
-<div class="left">
+<div class="right">
 
  * 輸配送
  * 保管
