@@ -7,6 +7,7 @@
 　　　　id:kakisoft
 ---
 作成中
+![alt](assets/image/kakisoft01.png)
 ---
 ### 自己紹介
 
