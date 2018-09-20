@@ -38,7 +38,7 @@
       <td>物流系エンジニア @size[0.8em](（フリーランス）)</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td>@size[0.8em](**使う**)</td>
       <td>.NET/Java/PHP/RDB全般</td>
     </tr>
     <tr>
