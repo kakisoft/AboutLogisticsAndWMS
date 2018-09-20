@@ -11,10 +11,11 @@
 ---
 ### 自己紹介
 
-![alt](assets/image/kakisoft01.png)
+<!-- ![alt](assets/image/kakisoft01.png) -->
 <div class="left">
 ![alt](assets/image/kakisoft01.png)
 </div>
+<br>
 <div class="right">
     <ul>
         <li> **名前：** 垣花　暁（かきのはな　さとる）</li>
