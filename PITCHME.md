@@ -12,12 +12,12 @@
 ### 自己紹介
 
 <!-- ![alt](assets/image/kakisoft01.png) -->
+<br>
 <div class="left">
 ![alt](assets/image/kakisoft01.png)
 </div>
-<br>
 <div class="right">
-  <table boder=0 style="white-space: nowrap;">
+  <table border="3" style="white-space: nowrap;">
     <tr>
       <td>**名前：**</td>
       <td>垣花　暁<br>（かきのはな　さとる）</td>
