@@ -12,7 +12,7 @@
 ### 自己紹介
 
 <div class="left">
-  ![alt](assets/image/kakisoft01.png)
+![alt](assets/image/kakisoft01.png)
 </div>
 <div class="right">
     <ul>
