@@ -14,7 +14,7 @@
 <div class="left">
   ![alt](assets/image/kakisoft01.png)
 </div>
-<div class="center">
+<div class="right">
     <ul>
         <li> **名前：** 垣花　暁（かきのはな　さとる）</li>
         <li>使えるので、</li>
