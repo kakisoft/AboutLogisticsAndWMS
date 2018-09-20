@@ -17,6 +17,16 @@
 </div>
 <br>
 <div class="right">
+  <table>
+    <tr>
+      <td>**名前：**</td>
+      <td>垣花　暁<br>（かきのはな　さとる）</td>
+    </tr>
+    <tr>
+      <td>**出身：**</td>
+      <td>沖縄県</td>
+    </tr>
+  </table>
     <ul>
         <li> **名前：** 垣花　暁（かきのはな　さとる）</li>
         <li>使えるので、</li>
