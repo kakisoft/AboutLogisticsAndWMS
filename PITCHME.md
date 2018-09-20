@@ -17,7 +17,7 @@
 ![alt](assets/image/kakisoft01.png)
 </div>
 <div class="right">
-  <table border="3" style="white-space: nowrap;">
+  <table style="white-space: nowrap;border-style: none;">
     <tr>
       <td>@size[0.8em](**名前**)</td>
       <td>
