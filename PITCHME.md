@@ -20,7 +20,7 @@
   <table border="3" style="white-space: nowrap;">
     <tr>
       <td>**名前：**</td>
-      <td>　垣花　暁<br>（かきのはな　さとる）</td>
+      <td>　垣花　暁<br>@size[0.5em](（かきのはな　さとる）)</td>
     </tr>
     <tr>
       <td>**出身：**</td>
