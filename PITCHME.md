@@ -11,9 +11,7 @@
 ### 自己紹介
 
 <div class="left">
-    <i class="fa fa-child fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/docs/about/" class="pro-link">
-    詳細はこちら</a>
+    [alt](kakisoft01.png)
 </div>
 <div class="center">
     <ul>
