@@ -38,11 +38,11 @@
       <td>物流系エンジニア @size[0.8em](（フリーランス）)</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**スキルセット**)</td>
+      <td>&nbsp;</td>
       <td>.NET/Java/PHP/RDB全般</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**その他スキル**)</td>
+      <td>&nbsp;</td>
       <td>物流業界向けの言語や機器</td>
     </tr>
     <tr>
