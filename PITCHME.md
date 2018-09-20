@@ -6,7 +6,9 @@
 　  
 　　　　id:kakisoft
 ---
-### 他にも色々できます
+作成中
+---
+### 自己紹介
 
 <div class="left">
     <i class="fa fa-child fa-5x" aria-hidden="true"> </i><br>
@@ -15,7 +17,7 @@
 </div>
 <div class="right">
     <ul>
-        <li>HTMLのタグが</li>
+        <li> **名前：** 垣花　暁（かきのはな　さとる）</li>
         <li>使えるので、</li>
         <li>レイアウトは</li>
         <li>基本的に</li>
