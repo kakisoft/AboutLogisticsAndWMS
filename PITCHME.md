@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td>@size[0.8em](**出身**)</td>
-      <td>沖縄県</td>
+      <td>@size[0.95](沖縄県)</td>
     </tr>
     <tr>
       <td>@size[0.8em](**仕事**)</td>
