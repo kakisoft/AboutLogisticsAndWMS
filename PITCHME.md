@@ -13,7 +13,6 @@
 ![alt](assets/image/kakisoft01.png)
 </div>
 
-<br>
 <div class="right">
   <table style="white-space: nowrap;border-style: none;">
     <tr>
