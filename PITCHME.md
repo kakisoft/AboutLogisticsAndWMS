@@ -47,7 +47,7 @@
       <td>リアル脱出ゲーム</td>
     </tr>
     <tr>
-      <td>@size[0.6](@fa[twitter icon-size2](kakisoft_tab))</td>
+      <td>@fa[twitter fa-1x]</td>
       <td> </td>
     </tr>
   </table>
