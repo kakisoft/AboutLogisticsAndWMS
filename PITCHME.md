@@ -24,7 +24,8 @@
         <rp>（</rp>
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
-        </ruby>      
+        </ruby>
+        @fa[twitter fa-1x][@size[0.6em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
       </td>
     </tr>
     <tr>
@@ -46,10 +47,6 @@
     <tr>
       <td>@size[0.8em](**趣味**)</td>
       <td>リアル脱出ゲーム</td>
-    </tr>
-    <tr>
-      <td>@fa[twitter fa-1x][@size[0.8em](kakisoft_tab)](https://twitter.com/kakisoft_tab)</td>
-      <td> </td>
     </tr>
   </table>
 </div>
