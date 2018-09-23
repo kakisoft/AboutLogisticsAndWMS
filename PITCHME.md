@@ -25,7 +25,7 @@
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
         </ruby>
-        　@fa[twitter fa-3x][@size[0.7em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
+        　@fa[twitter fa-0.5x][@size[0.7em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
       </td>
     </tr>
     <tr>
