@@ -17,10 +17,10 @@
 <div class="right">
   <table style="white-space: nowrap;border-style: none;">
     <tr>
-      <td>@size[0.7em](**名前**)</td>
+      <td>@size[0.75em](**名前**)</td>
       <td>
         <ruby>
-        <rb>@size[0.9em](垣花　暁)</rb>
+        <rb>@size[0.95em](垣花　暁)</rb>
         <rp>（</rp>
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
@@ -29,24 +29,24 @@
       </td>
     </tr>
     <tr>
-      <td>@size[0.8em](**出身**)</td>
-      <td>@size[0.95](沖縄県)</td>
+      <td>@size[0.75em](**出身**)</td>
+      <td>@size[0.95em](沖縄県)</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**仕事**)</td>
-      <td>物流系エンジニア @size[0.7em](\(フリーランス\))</td>
+      <td>@size[0.75em](**仕事**)</td>
+      <td>@size[0.95em](物流系エンジニア) @size[0.7em](（フリーランス）)</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**使う**)</td>
-      <td>.NET/Java/PHP/RDB全般</td>
+      <td>@size[0.75em](**使う**)</td>
+      <td>@size[0.95em](.NET/Java/PHP/RDB全般)</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-      <td>物流業界向けの言語や機器</td>
+      <td>@size[0.95em](物流業界向けの言語や機器)</td>
     </tr>
     <tr>
-      <td>@size[0.8em](**趣味**)</td>
-      <td>リアル脱出ゲーム</td>
+      <td>@size[0.75em](**趣味**)</td>
+      <td>@size[0.95em](リアル脱出ゲーム)</td>
     </tr>
   </table>
 </div>
