@@ -12,7 +12,6 @@
 <div class="left">
 ![alt](assets/image/kakisoft01.png)
 </div>
-<br>
 
 <div class="right">
   <table style="white-space: nowrap;border-style: none;">
@@ -25,7 +24,7 @@
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
         </ruby>
-        　@fa[twitter fa-0.4x][@size[0.7em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
+        　@fa[twitter fa-0.3x][@size[0.7em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
       </td>
     </tr>
     <tr>
