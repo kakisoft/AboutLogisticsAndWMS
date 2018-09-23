@@ -17,7 +17,7 @@
 <div class="right">
   <table style="white-space: nowrap;border-style: none;">
     <tr>
-      <td>@size[0.8em](**名前**)</td>
+      <td>@size[0.7em](**名前**)</td>
       <td>
         <ruby>
         <rb>@size[0.9em](垣花　暁)</rb>
@@ -25,7 +25,7 @@
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
         </ruby>
-        　@fa[twitter fa-0.5x][@size[0.7em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
+        　@fa[twitter fa-0.4x][@size[0.7em](kakisoft_tab)](https://twitter.com/kakisoft_tab)
       </td>
     </tr>
     <tr>
