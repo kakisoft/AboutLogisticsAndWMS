@@ -20,7 +20,7 @@
       <td>@size[0.8em](**名前**)</td>
       <td>
         <ruby>
-        <rb>垣花　暁</rb>
+        <rb>@size[0.9em](垣花　暁)</rb>
         <rp>（</rp>
         <rt>かきのはな　さとる</rt>
         <rp>）</rp>
