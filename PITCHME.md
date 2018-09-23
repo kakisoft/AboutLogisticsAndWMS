@@ -46,6 +46,10 @@
       <td>@size[0.8em](**趣味**)</td>
       <td>リアル脱出ゲーム</td>
     </tr>
+    <tr>
+      <td>@fa[twitter icon-size2](kakisoft_tab)</td>
+      <td>&nbsp</td>
+    </tr>
   </table>
 </div>
 ---
